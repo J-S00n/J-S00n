@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jason 👋
 
+🔭  I’m currently working on deploying my personal website
+- 🌱 I’m currently expanding my backend knowledge with SQL, AWS, and Spring Boot
+- 👯 I’m looking to collaborate on any projects that can impove my technical skills and solve real world problems
+- 📫 Reach out to me via email: json.chen20@gmail.com
 <!--
 **J-S00n/J-S00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
