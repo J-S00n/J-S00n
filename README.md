@@ -1,7 +1,6 @@
 ## Hi, I'm Jason 👋
 
-🔭  I’m currently working on deploying my personal website
-- 🌱 I’m currently expanding my backend knowledge with SQL, AWS, and Spring Boot
+🔭  I’m currently working on deploying my personal website and expanding my backend knowledge with SQL, AWS, and Spring Boot
 - 👯 I’m looking to collaborate on any projects that can impove my technical skills and solve real world problems
 - 📫 Reach out to me via email: json.chen20@gmail.com
 <!--
