@@ -1,8 +1,8 @@
 ## Hi, I'm Jason 👋
 
 🔭  I’m currently working on deploying my personal website and expanding my backend knowledge with SQL, AWS, and Spring Boot
-- 👯 I’m looking to collaborate on any projects that can impove my technical skills and solve real world problems
-- 📫 Reach out to me via email: json.chen20@gmail.com
+- 👯 I’m looking to collaborate on any projects that can improve my technical skills and solve real-world problems
+- 📫 Reach out to me via email: j2578che@uwaterloo.ca
 <!--
 **J-S00n/J-S00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
